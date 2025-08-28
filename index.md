@@ -1,10 +1,3 @@
----
-title: Hudu Chatbot (n8n)
-layout: default
-nav_order: 1
----
-
-
 # Hudu Chatbot (n8n)
 
 
