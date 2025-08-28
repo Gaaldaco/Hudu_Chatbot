@@ -35,7 +35,6 @@ A lookup-only chatbot that retrieves Hudu knowledge (Cheat Sheets & Important In
 
 
 ## Screenshots
-- Workflow: ![n8n-workflow](assets/img/n8n-workflow.png)
 - Vector node: ![vector-node](assets/img/vector-node.png)
 - Policy prompt: ![policy-prompt](assets/img/policy-prompt.png)
 - Hudu result: ![hudu-result](assets/img/hudu-result.png)
