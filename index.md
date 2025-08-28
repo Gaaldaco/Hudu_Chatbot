@@ -11,7 +11,7 @@ nav_order: 1
 A lookup-only chatbot that retrieves Hudu knowledge (Cheat Sheets & Important Info) with RAG and safe fallbacks.
 
 
-![n8n workflow](assets/images/n8n.png)
+![n8n workflow](images/n8n.png)
 
 
 ## Highlights
